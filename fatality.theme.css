@@ -31,8 +31,8 @@
 }
 
 :root {
-    --bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
-    --HomeButtonImg: url(https://raw.githubusercontent.com/codedotspectra/discordneutron/master/import/homeBtn.png);
+    --bgImage: url();
+    --HomeButtonImg: url(https://cdn.discordapp.com/attachments/555454647104569363/559807558081314826/simple_logo.png);
     --brightness: 0.4;
     --font-family: 'Comfortaa', cursive;
     --PrimaryColor01: rgb(217, 157, 86);
